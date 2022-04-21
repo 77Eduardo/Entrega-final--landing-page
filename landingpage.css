@@ -1113,4 +1113,167 @@ tr{
 
     color: #FF463A;
 }
+/*-------------------------------------------------*/
+/*-------------------------------------------------*/
 
+.login-page{
+    /*display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    position: relative;*/
+}
+
+.titulo-login h1{ 
+    position: relative;
+    width: 411px;
+    height: 96px;
+    left: 549px;
+    top: 60px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+    text-align: center;
+    color: #00235C;
+}
+
+.digite{
+    position: relative;
+    top: -600px;
+    left: 520px;
+}
+
+.digite1{
+    width: 394px;
+    height: 52px;
+    border: 1px solid #BCD6FF;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin: 30px;
+
+}
+
+.tipos-dados{
+    position: relative;
+    top: -2200px;
+    left: 300px;
+    margin: 30px;
+    padding: 14px;
+    width: 150px;
+    height: 25px;
+}
+
+.dados p{
+    width: 150px;
+    height: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    color: #00235C;
+
+    margin: 50px;
+}
+
+.estrela1{
+    position: relative;
+    width: 63px;
+    height: 94px;
+    left: 435px;
+    top: -2430px;
+}
+
+.estrela2{
+    position: relative;
+    width: 39.54px;
+    height: 59px;
+    left: 1010px;
+    top: -2400px;
+}
+
+.registro{
+    position: relative;
+    top: -1000px;
+    left: 745px;
+    width: 200px;
+    height: 52px;
+    background: #116CFF;
+    border-radius: 10px;
+}
+
+.registro p{
+    position: absolute;
+    width: 83px;
+    height: 24px;
+    left: 58px;
+    top: -5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.circulo{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    left: 1080px;
+    top: 277px;
+    border: 2px solid #FF463A;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+
+.microfone{
+    position: relative;
+    top: -3200px;
+}
+
+.retangulo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 16px;
+
+    position: relative;
+    width: 139px;
+    height: 30px;
+    left: 1049px;
+    top: 260px;
+
+    background: #FF463A;
+    border: 2px solid #FF463A;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.retangulo p{
+    position: relative;
+    width: 107px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.imagem-microfone{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1107px;
+    top: 305px;
+
+}
