@@ -1116,15 +1116,6 @@ tr{
 /*-------------------------------------------------*/
 /*-------------------------------------------------*/
 
-.login-page{
-    /*display: flex;
-    justify-content: center;
-    text-align: center;
-    flex-direction: column;
-    align-items: center;
-    position: relative;*/
-}
-
 .titulo-login h1{ 
     position: relative;
     width: 411px;
@@ -1277,3 +1268,313 @@ tr{
     top: 305px;
 
 }
+/*-------------------------------------------------*/
+/*-------------------------------------------------*/
+.ultima-pagina{
+    height: 40vh;
+    background-color:  #00235C;
+}
+
+.logo2{
+    position: relative;
+    width: 35.94px;
+    height: 37px;
+    left: 100px;
+    top: 50px;
+    background: #FFFFFF;
+}
+
+.C2 h1{
+    position: relative;
+    width: 18px;
+    height: 18px;
+    left: 9px;
+    top: 9px;
+
+   
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22.5524px;
+    line-height: 18px;
+
+    color: #00235C;
+}
+
+.logo2-1{
+    position: relative;
+    width: 93.38px;
+    height: 35px;
+    left: 136px;
+    top: 13px;
+    background: #00235C;
+    border: 1px solid #FFFFFF;
+}
+
+.coding2 h2{
+    position: relative;
+    width: 79px;
+    height: 18px;
+    left: 7px;
+    top: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12.6857px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.endereco{
+    position: relative;
+    width: 377px;
+    height: 18px;
+    left: 97px;
+    top: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+}
+
+.endereco-email{
+    position: relative;
+    width: 208px;
+    height: 18px;
+    left: 97px;
+    top: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.icon1{
+    position: relative;
+    top: 70px;
+    left: 97px;
+}
+
+.icons{
+    position: relative;
+    top: -150px;
+}
+
+/*.company{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}*/
+
+.company-font p{
+    position: relative;
+    width: 86px;
+    height: 18px;
+    left: 700px;
+    top: -860px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+    color: #116CFF;
+}
+
+.company-font2 p{
+    position: relative;
+    width: 49px;
+    height: 18px;
+    left: 700px;
+    top: -1570px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.company-font3 p{
+    position: relative;
+    width: 49px;
+    height: 18px;
+    left: 697px;
+    top: -2300px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.company-font4 p{
+    position: relative;
+    width: 49px;
+    height: 18px;
+    left: 697px;
+    top: -3030px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.ourclass-font p{
+    position: relative;
+    width: 88px;
+    height: 18px;
+    left: 850px;
+    top: -1634px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+    color: #116CFF;
+}
+
+.ourclass-font2 p{
+    position: relative;
+    width: 88px;
+    height: 18px;
+    left: 850px;
+    top: -2350px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF; 
+}
+
+.ourclass-font3 p{
+    position: relative;
+    width: 88px;
+    height: 18px;
+    left: 850px;
+    top: -3074px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF; 
+}
+
+.ourclass-font4 p{
+    position: relative;
+    width: 88px;
+    height: 18px;
+    left: 850px;
+    top: -3800px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF; 
+}
+
+.information-font p{
+    position: relative;
+    width: 104px;
+    height: 18px;
+    left: 1000px;
+    top: -2408px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+    color: #116CFF;
+}
+
+.information-font2 p{
+    position: relative;
+    width: 104px;
+    height: 18px;
+    left: 1000px;
+    top: -3125px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF; 
+}
+
+.information-font3 p{
+    position: relative;
+    width: 124px;
+    height: 18px;
+    left: 1000px;
+    top: -3849px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+
+}
+
+.information-font4 p{
+    position: relative;
+    width: 124px;
+    height: 18px;
+    left: 1000px;
+    top: -4575px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.our-A-font p{
+    position: relative;
+    width: 108px;
+    height: 18px;
+    left: 1150px;
+    top: -3183px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+    color: #116CFF;
+}
+
+.our-A-font2 p{
+    position: relative;
+    width: 108px;
+    height: 18px;
+    left: 1150px;
+    top: -3900px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
