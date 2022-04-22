@@ -1,12 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
 
 body{
+    overflow-x: hidden;
     margin: 0px;
 }
 
 div{
-    height: 100vh;    
+      height: 100vh;
 }
 
 h1{
@@ -1285,11 +1287,11 @@ tr{
 }
 
 .C2 h1{
-    position: relative;
+    position: absolute;
     width: 18px;
     height: 18px;
     left: 9px;
-    top: 9px;
+    top: -5px;
 
    
     font-family: 'Inter';
@@ -1312,7 +1314,7 @@ tr{
 }
 
 .coding2 h2{
-    position: relative;
+    position: absolute;
     width: 79px;
     height: 18px;
     left: 7px;
@@ -1325,28 +1327,26 @@ tr{
     color: #FFFFFF;
 }
 
-.endereco{
-    position: relative;
+.endereco p{
+    position: absolute;
     width: 377px;
     height: 18px;
-    left: 97px;
-    top: 10px;
-
+    left: 100px;
+    top: 4700px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
     line-height: 18px;
-
     color: #FFFFFF;
 }
 
-.endereco-email{
-    position: relative;
+.endereco-email p{
+    position: absolute;
     width: 208px;
     height: 18px;
-    left: 97px;
-    top: 30px;
+    left: 100px;
+    top: 4730px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -1356,14 +1356,15 @@ tr{
 }
 
 .icon1{
-    position: relative;
-    top: 70px;
-    left: 97px;
+    position: absolute;
+    top: 170px;
+    left: 6px;
 }
 
 .icons{
-    position: relative;
-    top: -150px;
+    position: absolute;
+    top: 4600px;
+    left: 90px;
 }
 
 /*.company{
@@ -1371,14 +1372,15 @@ tr{
     text-align: center;
     justify-content: center;
     flex-direction: column;
+    
 }*/
 
 .company-font p{
-    position: relative;
+    position: absolute;
     width: 86px;
     height: 18px;
-    left: 700px;
-    top: -860px;
+    left: 600px;
+    top: 4640px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -1388,11 +1390,11 @@ tr{
 }
 
 .company-font2 p{
-    position: relative;
+    position: absolute;
     width: 49px;
     height: 18px;
-    left: 700px;
-    top: -1570px;
+    left: 600px;
+    top: 4690px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -1402,11 +1404,11 @@ tr{
 }
 
 .company-font3 p{
-    position: relative;
+    position: absolute;
     width: 49px;
     height: 18px;
-    left: 697px;
-    top: -2300px;
+    left: 600px;
+    top: 4730px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -1416,11 +1418,11 @@ tr{
 }
 
 .company-font4 p{
-    position: relative;
+    position: absolute;
     width: 49px;
     height: 18px;
-    left: 697px;
-    top: -3030px;
+    left: 600px;
+    top: 4770px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -1430,11 +1432,11 @@ tr{
 }
 
 .ourclass-font p{
-    position: relative;
+    position: absolute;
     width: 88px;
     height: 18px;
-    left: 850px;
-    top: -1634px;
+    left: 750px;
+    top: 4640px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -1444,11 +1446,11 @@ tr{
 }
 
 .ourclass-font2 p{
-    position: relative;
-    width: 88px;
+    position: absolute;
+    width: 121px;
     height: 18px;
-    left: 850px;
-    top: -2350px;
+    left: 750px;
+    top: 4690px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -1458,11 +1460,11 @@ tr{
 }
 
 .ourclass-font3 p{
-    position: relative;
-    width: 88px;
+    position: absolute;
+    width: 151px;
     height: 18px;
-    left: 850px;
-    top: -3074px;
+    left: 750px;
+    top: 4730px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -1472,11 +1474,11 @@ tr{
 }
 
 .ourclass-font4 p{
-    position: relative;
-    width: 88px;
+    position: absolute;
+    width: 102px;
     height: 18px;
-    left: 850px;
-    top: -3800px;
+    left: 750px;
+    top: 4770px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -1486,11 +1488,11 @@ tr{
 }
 
 .information-font p{
-    position: relative;
+    position: absolute;
     width: 104px;
     height: 18px;
-    left: 1000px;
-    top: -2408px;
+    left: 950px;
+    top: 4640px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -1500,11 +1502,11 @@ tr{
 }
 
 .information-font2 p{
-    position: relative;
+    position: absolute;
     width: 104px;
     height: 18px;
-    left: 1000px;
-    top: -3125px;
+    left: 950px;
+    top: 4690px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -1514,42 +1516,41 @@ tr{
 }
 
 .information-font3 p{
-    position: relative;
+    position: absolute;
     width: 124px;
     height: 18px;
-    left: 1000px;
-    top: -3849px;
-
+    left: 950px;
+    top: 4730px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
     line-height: 18px;
-
     color: #FFFFFF;
-
 }
 
 .information-font4 p{
-    position: relative;
+    position: absolute;
     width: 124px;
     height: 18px;
-    left: 1000px;
-    top: -4575px;
+    left: 950px;
+    top: 4770px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
     line-height: 18px;
     color: #FFFFFF;
+    
+
 }
 
 .our-A-font p{
-    position: relative;
+    position: absolute;
     width: 108px;
     height: 18px;
-    left: 1150px;
-    top: -3183px;
+    left: 1100px;
+    top: 4640px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -1559,11 +1560,11 @@ tr{
 }
 
 .our-A-font2 p{
-    position: relative;
+    position: absolute;
     width: 108px;
     height: 18px;
-    left: 1150px;
-    top: -3900px;
+    left: 1100px;
+    top: 4690px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -1571,10 +1572,4 @@ tr{
     line-height: 18px;
     color: #FFFFFF;
 }
-
-
-
-
-
-
 
